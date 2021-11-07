@@ -1,3 +1,3 @@
 # stairs
 
-nmp i
+npm i

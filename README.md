@@ -1,0 +1,3 @@
+# stairs
+
+npm i
